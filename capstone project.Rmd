@@ -1,0 +1,32 @@
+---
+title: "Capstone"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Capstone Project
+I have chosen to work on a project that analyses the rental price index.
+
+
+## Problem to solve.
+I want to see which state, and region has the highest increase in rent over the course of the years. 
+
+## Target Market
+My target client would be companies who want to build a new building that will house 100+ workers and to be of more help to society, they build within the average rental increase to help workers' income be as stable as possible. 
+
+
+## Choice of data
+This will be possible based on Zillow's data, on rent pricing index that goes from 2010 to present. 
+<https://www.kaggle.com/zillow/rent-index?login=true#>
+
+## My approach
+1. Finding a good category to work with. State may be too wide? or just good enough?
+2. Adding population rank to the data, we can see any correlation from price increase/decrease vs. the population rank of the specific place.
+3. creating an average or median line within scatter point to see the robust outcome
+
+## Deliverables
+Using various plots to show multiple points of view on the price increases.
+
